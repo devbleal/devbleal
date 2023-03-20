@@ -14,6 +14,24 @@
   <img src="https://github-profile-trophy.vercel.app/?username=devbleal&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+ <h2 align="center">📩 &ensp; Contato</h2>
+  <img align="left" width="300px" 
+  <br><br>
+  <p align="center">
+    <a href="https://www.canva.com/design/DAFdfS5Ad3s/view" target="_blank">
+      <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Curriculum_Vitae">
+    </a>
+    <a href="mailto:joaothomaz.leal@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail_badge">
+    </a>
+    <a href="https://www.linkedin.com/in/thomazleal/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin_badge">
+    </a>
+    <a href="https://wa.me/5561999122500?text=Salve,%20pode%20mandar%20mensagem,%20sem%20problemas." target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp_badge">
+    </a>
+  <br><br><br>
+
 <div align="center">  
 <a href="https://www.linkedin.com/in/thomazleal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
