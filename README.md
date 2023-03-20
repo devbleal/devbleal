@@ -14,7 +14,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=devbleal&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
- <h2 align="center">📩 &ensp; Contato</h2>
+ <h2 align="center">📩 &ensp; Contact</h2>
   <img align="left" width="300px" 
   <br><br>
   <p align="center">
@@ -57,6 +57,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devbleal}/count.svg" /></p><br>
 </div>   
                                                                                                   
-![Snake animation](https://github.com/devbleal/devbleal/blob/output/github-contribution-grid-snake.svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>                                                       
+                                               
                                                                                                             
