@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#48498a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THOMAZ+LEAL;I'm+22+years+old;I+from+Brasil,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48498a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THOMAZ+LEAL;I'm+22+years+old;I+from+Brasil,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devbleal&show_icons=true&count_private=&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thomaz Brum Leal github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbleal&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devbleal&show_icons=true&count_private=&hide_border=true&title_color=48498a&icon_color=48498a&text_color=c9d1d9&bg_color=0d1117" alt="Thomaz Brum Leal github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbleal&layout=compact&hide_border=true&title_color=48498a&text_color=48498a&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devbleal&theme=gotham)
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=devbleal&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
 
 <p align="center">
@@ -18,7 +18,7 @@
   <img align="left" width="300px" 
   <br><br>
   <p align="center">
-    <a href="https://www.canva.com/design/DAFiXsu2qvo/NZTEe7Ku9M8cmMhX97-7nw/view?utm_content=DAFiXsu2qvo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
+    <a href="[https://www.canva.com/design/DAFiXsu2qvo/NZTEe7Ku9M8cmMhX97-7nw/view?utm_content=DAFiXsu2qvo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFqavWEm14/TxTO1rkLWppcCWHBpMUsaw/edit?utm_content=DAFqavWEm14&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" target="_blank">
       <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Curriculum_Vitae">
     </a>
     <a href="mailto:joaothomaz.leal@gmail.com" target="_blank">
@@ -57,8 +57,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devbleal}/count.svg" /></p><br>
 </div>   
  
-  ![Snake animation](https://github.com/devbleal/devbleal/blob/output/github-contribution-grid-snake.svg)
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#48498a&height=120&section=footer"/>
                                                
                                                                                                             
