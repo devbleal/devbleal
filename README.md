@@ -18,7 +18,7 @@
   <img align="left" width="300px" 
   <br><br>
   <p align="center">
-    <a href="[https://www.canva.com/design/DAFiXsu2qvo/NZTEe7Ku9M8cmMhX97-7nw/view?utm_content=DAFiXsu2qvo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFqavWEm14/TxTO1rkLWppcCWHBpMUsaw/edit?utm_content=DAFqavWEm14&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" target="_blank">
+    <a href="https://www.canva.com/design/DAFqavWEm14/fjJp2CU4VxyC82jQbll7HA/view?utm_content=DAFqavWEm14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
       <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Curriculum_Vitae">
     </a>
     <a href="mailto:joaothomaz.leal@gmail.com" target="_blank">
