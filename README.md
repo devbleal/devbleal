@@ -18,17 +18,17 @@
   <img align="left" width="300px" 
   <br><br>
   <p align="center">
-    <a href="https://www.canva.com/design/DAFqavWEm14/fjJp2CU4VxyC82jQbll7HA/view?utm_content=DAFqavWEm14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
+    <a href="https://www.canva.com/design/DAFqavWEm14/fjJp2CU4VxyC82jQbll7HA/view?utm_content=DAFqavWEm14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="blank">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Currículo">
     &nbsp;
   </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=joaothomaz.leal@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=joaothomaz.leal@gmail.com" target="blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail_badge">
     </a>
-    <a href="https://www.linkedin.com/in/thomazleal/" target="_blank">
+    <a href="https://www.linkedin.com/in/thomazleal/" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin_badge">
     </a>
-    <a href="https://wa.me/5561999122500?text=Salve,%20pode%20mandar%20mensagem,%20sem%20problemas." target="_blank">
+    <a href="https://wa.me/5561999122500?text=Salve,%20pode%20mandar%20mensagem,%20sem%20problemas." target="blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp_badge">
     </a>
   <br><br><br>
