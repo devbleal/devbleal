@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Currículo">
     &nbsp;
   </a>
-    <a href="mailto:joaothomaz.leal@gmail.com https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=joaothomaz.leal@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=joaothomaz.leal@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail_badge">
     </a>
     <a href="https://www.linkedin.com/in/thomazleal/" target="_blank">
