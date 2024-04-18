@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#48498a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48498a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THOMAZ+LEAL;I'm+22+years+old;I+from+Brasil,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THOMAZ+LEAL;I'm+22+years+old;I+from+Brasil,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devbleal&show_icons=true&count_private=&hide_border=true&title_color=48498a&icon_color=48498a&text_color=c9d1d9&bg_color=0d1117" alt="Thomaz Brum Leal github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbleal&layout=compact&hide_border=true&title_color=48498a&text_color=48498a&bg_color=0d1117" />
+  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devbleal&show_icons=true&count_private=&hide_border=true&title_color=F0F8FF&icon_color=008B8B&text_color=c9d1d9&bg_color=0d1117" alt="Thomaz Brum Leal github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbleal&layout=compact&hide_border=true&title_color=F0F8FF&text_color=F0F8FF&bg_color=0d1117" />
 </div>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=devbleal&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
@@ -75,6 +75,6 @@
 </div>   
  
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#48498a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer"/>
                                                
                                                                                                             
