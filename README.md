@@ -18,7 +18,7 @@
   <img align="left" width="300px" 
   <br><br>
   <p align="center">
-    <a href="https://www.canva.com/design/DAGGJKCppdI/qlcG76zGuYeLlOyaZn048w/view?utm_content=DAGGJKCppdI&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="blank">
+    <a href="https://www.canva.com/design/DAGGJKCppdI/qlcG76zGuYeLlOyaZn048w/view?utm_content=DAGGJKCppdI&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Currículo">
     &nbsp;
   </a>
