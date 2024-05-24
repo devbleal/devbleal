@@ -18,7 +18,7 @@
   <img align="left" width="300px" 
   <br><br>
   <p align="center">
-    <a href="https://www.canva.com/design/DAFqavWEm14/fjJp2CU4VxyC82jQbll7HA/view?utm_content=DAFqavWEm14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="blank">
+    <a href="https://www.canva.com/design/DAGGJKCppdI/HLM3H_LRZyMwliqarlz8Pg/edit?utm_content=DAGGJKCppdI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="blank">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Currículo">
     &nbsp;
   </a>
@@ -39,7 +39,10 @@
     <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">-
     <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">-
     <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">-
-    <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">-
+    <img align="center" alt="Lucas-Node.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">-
+    <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">-
+    <img align="center" alt="Lucas-Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg">-
   </div>
 <hr>
 
@@ -54,7 +57,7 @@
 
 <div>
   <h3>Studying in this Moment:</h3>
-  <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Phyton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
 </div>
 
 <hr>
@@ -64,7 +67,8 @@
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">-
   <img align="center" alt="Lucas-Gitflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">-
   <img align="center" alt="Lucas-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">-
-  <img align="center" alt="Lucas-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Lucas-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">-
+  <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
 </div>
 
 <hr>
