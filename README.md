@@ -8,12 +8,6 @@
 </div>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=devbleal&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devbleal&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
  <h2 align="center">📩 &ensp; Contact</h2>
   <img align="left" width="300px" 
   <br><br>
